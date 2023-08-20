@@ -1,1 +1,1 @@
-# Mastermind---GenAI-Services
+# Mastermind - GenAI Services
